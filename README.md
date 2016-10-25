@@ -21,7 +21,7 @@ This project provides the following tickets:
 
 ### Example
 
-<img src="png/game-ticket-10-minutes.png" alt="10 Minutes Game Pass" width="500" />
+<img src="png/game-pass-10-minutes.png" alt="10 Minutes Game Pass" width="500" />
 
 How to Print?
 --------------
